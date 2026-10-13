@@ -1,4 +1,4 @@
-# Experiment 18: Prompt Failure Diagnosis and Correction
+# Experiment 4: Prompt Failure Diagnosis and Correction
 
 ## Aim
 To identify common prompt failures, understand their causes, and improve prompts through systematic correction.
